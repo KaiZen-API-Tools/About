@@ -6,7 +6,7 @@ KaiZen OpenAPI Toolkit is a high-performance Java stack for [OpenAPI](http://rze
 
 KaiZen includes the following projects:
 * [KaiZen OpenAPI Editor](https://github.com/reprezen/kaizen-openapi-editor) - Feature-rich Eclipse editor for the industry-standard OpenAPI description language, formerly known as Swagger.
-* [KaiZen OpenAPI Parser](https://github.com/reprezen/kaizen-openapi-editor) - High-performance Parser, Validator, and Java Object Model for OpenAPI.
-* [KaiZen OpenAPI Normalizer](https://github.com/reprezen/kaizen-openapi-editor) - Consolidates and simplifies multi-file OpenAPI projects to a single document for easy, reliable downstream code generation and presentation in Swagger UI or other API documentation formats.
+* [KaiZen OpenAPI Parser](https://github.com/reprezen/kaizen-openapi-parser) - High-performance Parser, Validator, and Java Object Model for OpenAPI.
+* [KaiZen OpenAPI Normalizer](https://github.com/reprezen/kaizen-openapi-normalizer) - Consolidates and simplifies multi-file OpenAPI projects to a single document for easy, reliable downstream code generation and presentation in Swagger UI or other API documentation formats.
 
 **Note:** The KaiZen projects are in the [RepreZen](https://github.com/reprezen) organization on GitHub, but will be moved into [KaiZen-API-Tools](https://github.com/kaizen-api-tools). This project is a placeholder.
