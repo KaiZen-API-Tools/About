@@ -1,6 +1,6 @@
-# <img src="https://www.reprezen.com/hubfs/Assets-KaiZen/KaiZen-Toolkit-color.svg" alt="Introducing KaiZen OpenAPI Toolkit" width="50%"/>
+<img src="https://www.reprezen.com/hubfs/Assets-KaiZen/KaiZen-Toolkit-color.svg" alt="Introducing KaiZen OpenAPI Toolkit" width="50%"/>
 
-## Introducing KaiZen OpenAPI Toolkit
+# Introducing KaiZen OpenAPI Toolkit
 
 KaiZen OpenAPI Toolkit is a high-performance Java stack for [OpenAPI](http://rzen.io/oas3spec), from [RepreZen](https://www.reprezen.com).
 
